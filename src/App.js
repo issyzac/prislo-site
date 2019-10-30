@@ -4,6 +4,7 @@ import './App.css'
 import LoadIndicator from './components/indicator'
 import Header from './components/header'
 import Banner from './components/banner'
+import AboutSection from './components/about'
 import TopHeader from './components/Topheader'
 
 class App extends Component {
@@ -12,6 +13,7 @@ class App extends Component {
       <div>
         <Header />
         <Banner />
+        <AboutSection />
       </div>
     )
   }
