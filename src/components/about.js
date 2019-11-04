@@ -7,11 +7,21 @@ export default function AboutSection() {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="sectionTitle text-center">
-                            <h2>This is Prislo</h2>
+                            <h4 className="poppins"
+                                style={{
+                                    fontWeight: "900",
+                                    fontSize: "34sp"
+                                }} > THIS IS PRISLO </h4>
                             <div className="titleBars"></div>
-                            <p style={{ fontFamily: "Markazi Text, serif", fontSize: "30px", lineHeight: "1em" }}>
+                            <p style=
+                                {{
+                                    fontFamily: "'Chathura', sans-serif;",
+                                    fontSize: "24px",
+                                    lineHeight: "1.3em",
+                                    fontWeight: "300"
+                                }}>
                                 Innovative and Creative, natural and handmade. Foucing on bringing a blend of African-English styles of bags for daily uses.
-                                <br />Designer, Prisca Nnko has created the brand locally for the world, For the purpose of sharing Love with the world.
+                                <br /><br />Designer, Prisca Nnko has created the brand locally for the world, For the purpose of sharing Love with the world.
                             </p>
                         </div>
                     </div>
@@ -27,7 +37,7 @@ export default function AboutSection() {
                                 </div>
                                 <div className="col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="350ms">
                                     <div className="aboutDesc">
-                                        <h4 className="poppins">MINIMALISM STORY</h4>
+                                        <h4 className="poppins"> OUR STORY </h4>
                                         <p>
                                             The Love Boat soon will be making another run the love boat
                                             promises something for everyone one two three four five six
