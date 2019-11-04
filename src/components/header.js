@@ -18,9 +18,9 @@ function Header() {
                                 <span></span>
                             </div>
                             <ul>
-                                <li className="has-menu-items"><a href="index.html#">Home</a></li>
-                                <li className="has-menu-items"><a href="index.html#">shop</a></li>
-                                <li><a href="contact_us.html">Contact</a></li>
+                                <li className="has-menu-items"><a href="#">Home</a></li>
+                                <li className="has-menu-items"><a href="#">shop</a></li>
+                                <li><a href="#">Contact</a></li>
                             </ul>
                         </nav>
                     </div>
