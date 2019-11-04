@@ -49,7 +49,7 @@ class Banner extends Component {
                                 data-start="800"
                                 data-easing="easeInQuad"
                             >
-                                <h6 className="sl2_h6 playfair">The Fashion Peak</h6>
+                                <h6 className="sl2_h6 playfair" style={{ color: "#FFFFFF", fontFamily: "'Fredoka One', cursive" }}>The Fashion Peak</h6>
                             </Caption>
                             <Caption
                                 class="tp-caption skewfromrightshort fadeout"
@@ -59,7 +59,7 @@ class Banner extends Component {
                                 data-start="800"
                                 data-easing="Power4.easeOut"
                             >
-                                <h1 className="sl_h raleway">FEEL THE TRENDY FASHION</h1>
+                                <h1 className="sl_h raleway" style={{ color: "#FFFFFF", fontFamily: "'Fredoka One', cursive" }} >Feel the trendy fashion </h1>
                             </Caption>
                             <Caption
                                 class="tp-caption skewfromrightshort fadeout"
@@ -71,7 +71,7 @@ class Banner extends Component {
                                 data-easing="easeInQuad"
                             >
                                 <div className="slbutons">
-                                    <a href="index2.html#" className="vol_btn poppins">VIEW COLLECTION<i className="flaticon-arrows-3"></i></a>
+                                    <a href="index2.html#" className="" style={{ color: "#ffffff" }}>VIEW COLLECTION<i className="flaticon-arrows-3"></i></a>
                                 </div>
                             </Caption>
                         </Slide>
