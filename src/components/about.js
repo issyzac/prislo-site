@@ -7,11 +7,11 @@ export default function AboutSection() {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="sectionTitle text-center">
-                            <h2>About Minimal Shop</h2>
+                            <h2>This is Prislo</h2>
                             <div className="titleBars"></div>
-                            <p>
-                                The Love Boat soon will be making another run the love boat promises something for everyone one two three four five
-                                six seven eight Sclemeel schlemazel hasenfeffer incorporated.
+                            <p style={{ fontFamily: "Markazi Text, serif", fontSize: "30px", lineHeight: "1em", wordSpacing: "0.3em" }}>
+                                Innovative and Creative, natural and handmade. Foucing on bringing a blend of African-English styles of bags for daily uses.
+                                <br />Designer, <b> Prisca Nnko </b>  has created the brand locally for the world, For the purpose of sharing Love with the world.
                             </p>
                         </div>
                     </div>
