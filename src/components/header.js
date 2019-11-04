@@ -9,7 +9,7 @@ function Header() {
                         <nav className="mainMenu poppins">
                             <div className="logofixedHeader text-center">
                                 <a href="index.html">
-                                    <img alt="Volta" src="images/logo.png" />
+                                    <h2 style={{ fontFamily: "'Amita', cursive" }} > Prislo </h2>
                                 </a>
                             </div>
                             <div className="mobileMenu">
