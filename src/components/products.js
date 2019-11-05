@@ -22,7 +22,7 @@ export default function Products() {
                             <div className="labelsPro poppins newPro">New</div>
                             <div className="labelsPro poppins salePro">Sale</div>
                             <div className="productThumb01">
-                                <img src="images/home2/s1.png" alt="" />
+                                <img src="images/home2/product1.jpg" alt="" />
                                 <div className="productHover01">
                                     <a href="shop_single.html" className="vol_btn vol_btn_bg">Add to cart<i className="flaticon-arrows-3"></i></a>
                                 </div>
@@ -37,7 +37,7 @@ export default function Products() {
                     <div className="col-lg-4 col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="350ms">
                         <div className="singleProduct01 style_two text-center">
                             <div className="productThumb01">
-                                <img src="images/home2/s2.png" alt="" />
+                                <img src="images/home2/product2.jpg" alt="" />
                                 <div className="productHover01">
                                     <a href="shop_single.html" className="vol_btn vol_btn_bg">Add to cart<i className="flaticon-arrows-3"></i></a>
                                 </div>
@@ -54,7 +54,7 @@ export default function Products() {
                             <div className="labelsPro poppins newPro">New</div>
                             <div className="labelsPro poppins salePro">Sale</div>
                             <div className="productThumb01">
-                                <img src="images/home2/s3.png" alt="" />
+                                <img src="images/home2/product3.jpg" alt="" />
                                 <div className="productHover01">
                                     <a href="shop_single.html" className="vol_btn vol_btn_bg">Add to cart<i className="flaticon-arrows-3"></i></a>
                                 </div>
