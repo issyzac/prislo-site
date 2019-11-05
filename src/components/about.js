@@ -10,13 +10,13 @@ export default function AboutSection() {
                             <h4 className="poppins"
                                 style={{
                                     fontWeight: "900",
-                                    fontSize: "34sp"
+                                    fontSize: "24sp"
                                 }} > THIS IS PRISLO </h4>
                             <div className="titleBars"></div>
                             <p style=
                                 {{
                                     fontFamily: "'Chathura', sans-serif;",
-                                    fontSize: "24px",
+                                    fontSize: "18px",
                                     lineHeight: "1.3em",
                                     fontWeight: "300"
                                 }}>
