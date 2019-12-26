@@ -59,7 +59,7 @@ class Banner extends Component {
                                 data-start="800"
                                 data-easing="Power4.easeOut"
                             >
-                                <h1 className="sl_h raleway" style={{ color: "#FFFFFF", fontFamily: "'Fredoka One', cursive" }} >Feel the trendy fashion </h1>
+                                <h1 className="sl_h raleway" style={{ color: "#FFFFFF", fontFamily: 'Montserrat', fontWeight: "900", fontSize: "90px" }} >Feel the trendy fashion </h1>
                             </Caption>
                             <Caption
                                 class="tp-caption skewfromrightshort fadeout"
