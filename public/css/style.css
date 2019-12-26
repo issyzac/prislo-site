@@ -45,6 +45,23 @@
 
 ==========================================================================*/
 
+@font-face{
+    font-family: 'Big John';
+    font-weight: 600;
+    src: url("/public/fonts/big_john.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Mosk';
+    font-weight: 900;
+    src: url("/public/fonts/Mosk.ttf") format("truetype");
+}
+
+.about-section-title {
+    color: #888888;
+    font-family: 'Mosk';
+}
+
 /*=======================================================================
 // Header 01
 =========================================================================*/
