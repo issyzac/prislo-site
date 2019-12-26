@@ -7,18 +7,20 @@ export default function AboutSection() {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="sectionTitle text-center">
-                            <h4 className="poppins"
-                                style={{
-                                    fontWeight: "900",
-                                    fontSize: "24sp"
-                                }} > THIS IS PRISLO </h4>
+                            <h4 className="about-section-title" style={{ 
+                                fontFamily: 'Montserrat', 
+                                fontSize: "40px",
+                                fontWeight: "900",
+                                color: "#000000"
+                                }} > 
+                                THIS IS PRISLO </h4>
                             <div className="titleBars"></div>
                             <p style=
                                 {{
-                                    fontFamily: "'Chathura', sans-serif;",
-                                    fontSize: "18px",
+                                    fontFamily: "Mosk",
+                                    fontSize: "24px",
                                     lineHeight: "1.3em",
-                                    fontWeight: "300"
+                                    color: "#000000"
                                 }}>
                                 Innovative and Creative, natural and handmade. Foucing on bringing a blend of African-English styles of bags for daily uses.
                                 <br /><br />Designer, Prisca Nnko has created the brand locally for the world, For the purpose of sharing Love with the world.
@@ -46,7 +48,7 @@ export default function AboutSection() {
                                             not for the courage of the fearless crew the minnow would
                                             be lost the minnow would be lost.
                                         </p>
-                                        <a href="index2.html#" className="vol_btn">View Products<i className="flaticon-arrows-3"></i></a>
+                                        
                                     </div>
                                 </div>
                             </div>
