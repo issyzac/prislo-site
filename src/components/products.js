@@ -19,12 +19,14 @@ export default function Products() {
                 <div className="row">
                     <div className="col-lg-4 col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
                         <div className="singleProduct01 style_two text-center">
-                            <div className="labelsPro poppins newPro">New</div>
-                            <div className="labelsPro poppins salePro">Sale</div>
+                            {/* <div className="labelsPro poppins newPro">New</div>
+                            <div className="labelsPro poppins salePro">Sale</div> */}
                             <div className="productThumb01">
                                 <img src="images/home2/product1.jpg" alt="" />
                                 <div className="productHover01">
-                                    <a href="shop_single.html" className="vol_btn vol_btn_bg">Add to cart<i className="flaticon-arrows-3"></i></a>
+                                <p className="vol_btn vol_btn_bg">
+                                        Available
+                                    </p>
                                 </div>
                             </div>
                             <div className="productDesc01">
@@ -39,7 +41,9 @@ export default function Products() {
                             <div className="productThumb01">
                                 <img src="images/home2/product2.jpg" alt="" />
                                 <div className="productHover01">
-                                    <a href="shop_single.html" className="vol_btn vol_btn_bg">Add to cart<i className="flaticon-arrows-3"></i></a>
+                                <p className="vol_btn vol_btn_bg">
+                                        Available
+                                    </p>
                                 </div>
                             </div>
                             <div className="productDesc01">
@@ -51,12 +55,14 @@ export default function Products() {
                     </div>
                     <div className="col-lg-4 col-sm-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="400ms">
                         <div className="singleProduct01 style_two text-center">
-                            <div className="labelsPro poppins newPro">New</div>
-                            <div className="labelsPro poppins salePro">Sale</div>
+                            {/* <div className="labelsPro poppins newPro">New</div>
+                            <div className="labelsPro poppins salePro">Sale</div> */}
                             <div className="productThumb01">
                                 <img src="images/home2/product3.jpg" alt="" />
                                 <div className="productHover01">
-                                    <a href="shop_single.html" className="vol_btn vol_btn_bg">Add to cart<i className="flaticon-arrows-3"></i></a>
+                                    <p className="vol_btn vol_btn_bg">
+                                        Available
+                                    </p>
                                 </div>
                             </div>
                             <div className="productDesc01">
