@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/prislo/static/css/main.b100e6da.chunk.css",
-    "main.js": "/prislo/static/js/main.159c3ad8.chunk.js",
-    "main.js.map": "/prislo/static/js/main.159c3ad8.chunk.js.map",
-    "runtime-main.js": "/prislo/static/js/runtime-main.8cdff5ba.js",
-    "runtime-main.js.map": "/prislo/static/js/runtime-main.8cdff5ba.js.map",
-    "static/js/2.a16e1308.chunk.js": "/prislo/static/js/2.a16e1308.chunk.js",
-    "static/js/2.a16e1308.chunk.js.map": "/prislo/static/js/2.a16e1308.chunk.js.map",
-    "index.html": "/prislo/index.html",
-    "precache-manifest.2f57b1e3008ed38c79d8125129cce066.js": "/prislo/precache-manifest.2f57b1e3008ed38c79d8125129cce066.js",
-    "service-worker.js": "/prislo/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/prislo/static/css/main.b100e6da.chunk.css.map",
-    "static/js/2.a16e1308.chunk.js.LICENSE.txt": "/prislo/static/js/2.a16e1308.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/prislo/static/media/logo.25bf045c.svg"
+    "main.css": "/prislo-site/static/css/main.b100e6da.chunk.css",
+    "main.js": "/prislo-site/static/js/main.afce6031.chunk.js",
+    "main.js.map": "/prislo-site/static/js/main.afce6031.chunk.js.map",
+    "runtime-main.js": "/prislo-site/static/js/runtime-main.2efd2f71.js",
+    "runtime-main.js.map": "/prislo-site/static/js/runtime-main.2efd2f71.js.map",
+    "static/js/2.a16e1308.chunk.js": "/prislo-site/static/js/2.a16e1308.chunk.js",
+    "static/js/2.a16e1308.chunk.js.map": "/prislo-site/static/js/2.a16e1308.chunk.js.map",
+    "index.html": "/prislo-site/index.html",
+    "precache-manifest.f3e7b1fefd0a2e005636cff2326779da.js": "/prislo-site/precache-manifest.f3e7b1fefd0a2e005636cff2326779da.js",
+    "service-worker.js": "/prislo-site/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/prislo-site/static/css/main.b100e6da.chunk.css.map",
+    "static/js/2.a16e1308.chunk.js.LICENSE.txt": "/prislo-site/static/js/2.a16e1308.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/prislo-site/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cdff5ba.js",
+    "static/js/runtime-main.2efd2f71.js",
     "static/js/2.a16e1308.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.159c3ad8.chunk.js"
+    "static/js/main.afce6031.chunk.js"
   ]
 }
