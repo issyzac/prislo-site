@@ -20,8 +20,8 @@ export default function AboutSection() {
                                     lineHeight: "1.3em",
                                     fontWeight: "300"
                                 }}>
-                                Innovative and Creative, natural and handmade. Foucing on bringing a blend of African-English styles of bags for daily uses.
-                                <br /><br />Designer, Prisca Nnko has created the brand locally for the world, For the purpose of sharing Love with the world.
+                                An innovative and eco-friendly designer brand. Focusing on bringing a blend of African-English fabric bags in a mix and style with love.
+                                <br /><br />Designer Prisca Nnko has created the Tanzanian localbrand for the world. To unfold the love confection in African print.
                             </p>
                         </div>
                     </div>
