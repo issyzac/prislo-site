@@ -28,8 +28,9 @@ export default function Footer() {
                         <aside className="widget">
                             <h3 className="widgetTitle">Follow Us</h3>
                             <div className="footerSocials2">
-                                <a href="index2.html#"><i className="fa fa-facebook"></i></a><a href="index2.html#"><i className="fa fa-twitter"></i>
-                                </a><a href="index2.html#"><i className="fa fa-google-plus"></i></a><a href="index2.html#"><i className="fa fa-instagram"></i>
+                                <a href="https://web.facebook.com/Prislo_designs-671100476585989/"><i className="fa fa-facebook"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=255715007607"><i className="fa fa-whatsapp"></i></a>
+                                <a href="https://instagram.com/prislo_designs/"><i className="fa fa-instagram"></i>
                                 </a>
                             </div>
                         </aside>
