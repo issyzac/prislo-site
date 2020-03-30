@@ -10,8 +10,7 @@ export default function Footer() {
                             <div className="textwidget">
                                 <h1> Prislo </h1>
                                 <div className="footerDesc">
-                                    Innovative and Creative, natural and handmade. Foucing on
-                                    bringing a blend of African-English styles of bags for daily uses.
+                                    Innovative and Creative and Eco-friendly bags designed with love!
                                 </div>
                             </div>
                         </aside>
