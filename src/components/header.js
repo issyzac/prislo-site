@@ -1,4 +1,6 @@
 import React from 'react'
+import PrisloLogo from '../logo.svg'
+import Icon from '../components/Icon'
 
 function Header() {
     return (
@@ -9,7 +11,7 @@ function Header() {
                         <nav className="mainMenu poppins">
                             <div className="logofixedHeader text-center">
                                 <a href="index.html">
-                                    <h2 style={{ fontFamily: "'Amita', cursive" }} > Prislo </h2>
+                                    <img width={70} src={PrisloLogo} alt="Prislo logo"/>
                                 </a>
                             </div>
                             <div className="mobileMenu">
@@ -19,7 +21,7 @@ function Header() {
                             </div>
                             <ul>
                                 <li className="has-menu-items"><a href="#">Home</a></li>
-                                <li className="has-menu-items"><a href="#">shop</a></li>
+                                <li className="has-menu-items"><a href="#">Catalogue</a></li>
                                 <li><a href="#">Contact</a></li>
                             </ul>
                         </nav>
