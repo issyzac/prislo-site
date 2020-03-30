@@ -42,7 +42,7 @@ class Banner extends Component {
                                 'data-masterspeed': "1500"
                             }}>
                             <Caption
-                                class="tp-caption skewfromrightshort fadeout"
+                                className="tp-caption skewfromrightshort fadeout"
                                 data-x="center"
                                 data-y="center"
                                 data-voffset="-55"
@@ -50,7 +50,7 @@ class Banner extends Component {
                                 data-start="800"
                                 data-easing="easeInQuad"
                             >
-                                <h6 className="sl2_h6 playfair" style={{ color: "#FFFFFF", fontFamily: "'Fredoka One', cursive" }}>The Fashion Peak</h6>
+                                <h6 className="sl2_h6 playfair col-sm-12" style={{ color: "#FFFFFF", fontFamily: "'Fredoka One', cursive" }}>The Fashion Peak</h6>
                             </Caption>
                             <Caption
                                 class="tp-caption skewfromrightshort fadeout"
@@ -60,10 +60,10 @@ class Banner extends Component {
                                 data-start="800"
                                 data-easing="Power4.easeOut"
                             >
-                                <h1 className="sl_h raleway" style={{ color: "#FFFFFF", fontFamily: 'Montserrat', fontWeight: "900", fontSize: "90px" }} >Feel the trendy fashion </h1>
+                                <h1 className="sl_h raleway" style={{ color: "#FFFFFF", lineHeight:"0.8", fontFamily: 'Montserrat', fontWeight: "900", fontSize: "90px" }} >Feel the trendy fashion </h1>
                             </Caption>
                             <Caption
-                                class="tp-caption skewfromrightshort fadeout"
+                                className="tp-caption skewfromrightshort fadeout"
                                 data-x="center"
                                 data-y="center"
                                 data-voffset="86"
