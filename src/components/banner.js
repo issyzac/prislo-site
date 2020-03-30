@@ -30,7 +30,8 @@ class Banner extends Component {
                 <div className="revSlider">
                     <RevSlider config={this.config}>
                         <Slide
-                            src={process.env.PUBLIC_URL + '/images/slider/banner_two.jpg'}
+                            // src={process.env.PUBLIC_URL + '/images/slider/banner_two.jpg'}
+                            src="/images/slider/banner_two.jpg"
                             alt="slidebg1"
                             data-bgfit="cover"
                             data-bgposition="left top"
