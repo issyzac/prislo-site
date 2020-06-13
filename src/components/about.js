@@ -23,7 +23,7 @@ export default function AboutSection() {
                                     color: "#000000"
                                 }}>
                                 An innovative and eco-friendly designer brand. Focusing on bringing a blend of African-English fabric bags in a mix and style with love.
-                                <br /><br />Designer Prisca Nnko has created the Tanzanian localbrand for the world. To unfold the love confection in African print.
+                                <br /><br />Tanzanian Designer Prisca Nnko has created a fashion local brand for everyone to experience. To unfold the love confection in African print for everything.....dresses, bags, shoes and even pencil cases (remember, everyone!).
                             </p>
                         </div>
                     </div>
@@ -41,14 +41,11 @@ export default function AboutSection() {
                                     <div className="aboutDesc">
                                         <h4 className="poppins"> OUR STORY </h4>
                                         <p>
-                                            The Love Boat soon will be making another run the love boat
-                                            promises something for everyone one two three four five six
-                                            seven eight Sclemeel schlemazel hasenfeffer incorporated the
-                                            weather started getting rough the tiny ship was tossed if
-                                            not for the courage of the fearless crew the minnow would
-                                            be lost the minnow would be lost.
+                                        Our love for fabric, more specifically the African fabric has led us to that design 
+                                        dimension where we think of putting it up on everything nice. We started with 
+                                        dresses and trousers, then came bags (all sorts from safari bags to fanny packs), 
+                                        then shoes, and accessories- wide range. We also customize fabric on any material upon customer request.
                                         </p>
-                                        
                                     </div>
                                 </div>
                             </div>
