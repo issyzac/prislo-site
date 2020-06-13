@@ -10,8 +10,7 @@ export default function Products() {
                             <h2>New Arrivals</h2>
                             <div className="titleBars"></div>
                             <p>
-                                The Love Boat soon will be making another run the love boat promises something for everyone one two three four five
-                                six seven eight Sclemeel schlemazel hasenfeffer incorporated.
+                            Double-sided Tote Bags and Make-up Bags. Big and Beautiful. Please be sure to follow our IG for daily updates
                             </p>
                         </div>
                     </div>
